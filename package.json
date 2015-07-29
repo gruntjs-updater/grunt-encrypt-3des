@@ -1,0 +1,65 @@
+{
+  "name": "grunt-encrypt-3des",
+  "description": "Encrypt your files with 3DES and Grunt based on grunt-encrypt of charliedowler",
+  "version": "0.1.0",
+  "homepage": "https://github.com/charliedowler/grunt-encrypt-3des",
+  "author": {
+    "name": "TimSchnCoding",
+    "url": "https://github.com/TimSchnCoding/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TimSchnCoding/grunt-encrypt-3des.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TimSchnCoding/grunt-encrypt-3des/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/TimSchnCoding/grunt-encrypt-3des/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.9.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "encrypt"
+  ],
+  "_id": "grunt-encrypt-3des@0.1.0",
+  "_shasum": "e72ea6ca87dbcec7f2c692495cefed362ac3d9f9",
+  "_from": "grunt-encrypt-3des@*",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "TimSchnCoding",
+    "email": "tim.schneefeld@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "TimSchnCoding",
+      "email": "tim.schneefeld@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "e72ea6ca87dbcec7f2c692495cefed362ac3d9f9",
+    "tarball": "http://registry.npmjs.org/grunt-encrypt/-/grunt-encrypt-0.2.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/grunt-encrypt/-/grunt-encrypt-0.2.0.tgz"
+}
